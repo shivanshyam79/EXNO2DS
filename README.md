@@ -65,5 +65,5 @@ corr = df.corr() sns.heatmap(corr,annot=True)
 sns.pairplot(df)
 ![image](https://github.com/user-attachments/assets/9f2285fa-3382-4404-8ecd-f0a469365983)
 
-RESULT
+## RESULT:
     Hence performing Exploratory Data Analysis on the given data set is successful
